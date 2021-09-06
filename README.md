@@ -14,4 +14,4 @@ print("Atividade avaliativa: ")
 [4º exercicio](https://github.com/Shinguek0/-infosatc-lp-avaliativo-02-2021/blob/main/exercicio4.py)<br>
 [5º exercicio](https://github.com/Shinguek0/-infosatc-lp-avaliativo-02-2021/blob/main/exercicio5.py)<br>
 [6º exercicio](https://github.com/Shinguek0/-infosatc-lp-avaliativo-02-2021/blob/main/exercicio6.py)<br>
-[6º exercicio](https://github.com/Shinguek0/-infosatc-lp-avaliativo-02-2021/blob/main/exercicio7.py)<br>
+[7º exercicio](https://github.com/Shinguek0/-infosatc-lp-avaliativo-02-2021/blob/main/exercicio7.py)<br>
